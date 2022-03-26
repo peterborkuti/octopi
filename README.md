@@ -1,4 +1,4 @@
-Install Octopi on Raspberry pi
+## Install CUPS with Octopi on Raspberry pi and use your old HP printer
 
 Install OctoPi using the Raspberry Pi Imager:
 https://octoprint.org/download/
@@ -33,7 +33,18 @@ Go to http://your.octopi.ip:631
 Add your printer 
 * it will ask for the login password, login is "pi" the password is what you gave when setup
 raspberry imager
+Do not forget to check Share 
 Print a test page
+
+
+## Setup printer from remote Linux
+
+Simply add printer, it will find if you are on the same network.
+
+## Setup printer from remote Windows
+
+See the end of this guide:
+https://www.tomshardware.com/how-to/raspberry-pi-print-server
 
 
 
